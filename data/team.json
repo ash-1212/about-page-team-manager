@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "role": "Web Developer",
+    "bio": "Passionate web developer with expertise in HTML, CSS, JavaScript and Bootstrap. Loves building clean and responsive interfaces.",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  },
+  {
+    "id": 2,
+    "name": "Sara Ahmed",
+    "role": "WordPress Developer",
+    "bio": "WordPress specialist with experience in custom themes, plugins, and WooCommerce store development.",
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  },
+  {
+    "id": 3,
+    "name": "Ali Raza",
+    "role": "AI Engineer",
+    "bio": "Exploring the frontiers of machine learning and artificial intelligence. Currently working on NLP and computer vision projects.",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  },
+  {
+    "id": 4,
+    "name": "Usman Tariq",
+    "role": "UI/UX Designer",
+    "bio": "Creative designer focused on user-centered design, wireframing, and building beautiful digital experiences.",
+    "image": "https://randomuser.me/api/portraits/men/54.jpg",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  },
+  {
+    "id": 5,
+    "name": "Fatima Malik",
+    "role": "Backend Developer",
+    "bio": "Backend developer experienced in Node.js, PHP, and database management. Loves building robust APIs.",
+    "image": "https://randomuser.me/api/portraits/women/26.jpg",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  },
+  {
+    "id": 6,
+    "name": "Bilal Sheikh",
+    "role": "Project Manager",
+    "bio": "Experienced project manager who bridges the gap between clients and development teams to deliver on time.",
+    "image": "https://randomuser.me/api/portraits/men/76.jpg",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  }
+]
